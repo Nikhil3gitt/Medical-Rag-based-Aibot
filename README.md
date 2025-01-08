@@ -1,4 +1,4 @@
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=3up95NvxLog)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=3rp95NvxLog)
 
 This project leverages Azure Form Recognizer, MongoDB, and multiple LLM providers groq to create an AI-powered medical assistant. The app enables document analysis of PDF files and generates medical interpretations and health insights using an LLM. 
 
