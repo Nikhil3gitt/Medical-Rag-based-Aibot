@@ -1,13 +1,12 @@
 
 
-This project leverages Azure Form Recognizer, MongoDB, and multiple LLM providers groq to create an AI-powered medical assistant. The app enables document analysis of PDF files and generates medical interpretations and health insights using an LLM. 
+This project leverages Azure Form Recognizer(Azure Document Intelligence), MongoDB, and multiple LLM providers to create an AI-powered medical assistant. The app enables document analysis of PDF files and generates medical interpretations and health insights using an LLM. 
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
    clone https://github.com/Nikhil3gitt/Medical-Rag-based-Aibot/rag-medical-bot.git
-
 
 
 
